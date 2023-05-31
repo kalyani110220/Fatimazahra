@@ -13,8 +13,6 @@ function logPerson(person) {
 
 people.forEach(logPerson);
 
-// Function in a Variable
-// Store the logPerson() function in a variable called performLogPerson
 
 const performLogPerson = function (person) {
   console.log(`The person is ${person}`);
