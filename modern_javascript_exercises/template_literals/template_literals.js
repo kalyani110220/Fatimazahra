@@ -2,7 +2,7 @@
 
 export const greeting = (name, dayOfTheWeek) =>
   // "Hello " + name + "! It is now " + dayOfTheWeek;
-  let name = Jimbob
+  let name = Jimbob,
   let dayOfTheWeek = Tuesday;
   'Hello ${name},! It is now ${dayOfTheWeek}.';
   
